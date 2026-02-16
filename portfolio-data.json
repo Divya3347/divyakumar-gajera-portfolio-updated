@@ -1,0 +1,194 @@
+{
+  "settings": {
+    "name": "Divyakumar Gajera",
+    "title": "Software Developer",
+    "location": "India",
+    "summary": "Experienced Software Developer specializing in backend development, API design, and system optimization for robust and scalable solutions.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:divyakumar.gajera@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "https://drive.google.com/file/d/1didoDr9mydB6nUbVrti94aB-JqKQEPq1/view?usp=sharing"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Python",
+          "C++",
+          "C",
+          "Java",
+          "JavaScript",
+          "SQL",
+          "Bash",
+          "FastAPI",
+          "Flask",
+          "Node.js",
+          "Express.js",
+          "RESTful APIs",
+          "JSON",
+          "Jinja2",
+          "React",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "Redis",
+          "Docker",
+          "Git",
+          "GitHub",
+          "GitHub Actions",
+          "Linux",
+          "AWS (EC2, S3)",
+          "CI/CD",
+          "Containerization",
+          "pytest",
+          "unittest",
+          "Postman",
+          "Unit Testing",
+          "Integration Testing",
+          "Logging",
+          "API Testing",
+          "Data Structures and Algorithms",
+          "Object-Oriented Programming (OOP)",
+          "Database Design",
+          "Operating Systems",
+          "Computer Networks",
+          "Concurrency Basics"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Coreway Solutions",
+          "position": "Software Developer",
+          "period": "Jan. 2024 - Dec. 2024",
+          "description": "Reduced page load times by 40% by optimizing SQL queries and implementing Redis caching, improving performance for 200+ daily active users. Designed and deployed a role-based analytics dashboard adopted by 10+ departments, enabling 200+ employees to track KPIs and streamline reporting workflows. Automated CI/CD pipelines using GitHub Actions and Docker across 5 microservices, accelerating release cycles from weekly to daily deployments. Strengthened system reliability by implementing 100+ unit and integration tests, contributing to a 25% reduction in production defects."
+        },
+        {
+          "company": "Coreway Solutions",
+          "position": "Software Developer Intern",
+          "period": "Jul. 2023 - Dec. 2023",
+          "description": "Built and deployed 20+ RESTful API endpoints using FastAPI and SQLAlchemy to support analytics tools used by 150+ internal users. Optimized high-traffic database queries, reducing average API response time by 25% on endpoints handling 1,000+ daily requests. Collaborated with a cross-functional team of 6 engineers to integrate backend services and ensure reliable data synchronization across systems. Authored technical documentation that reduced new engineer onboarding time from 7 days to 3 days."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Admin Workflow Platform",
+          "description": "Engineered a backend-driven workflow platform supporting 50+ concurrent users, reducing task processing time by 30% through optimized request handling and database design. Reduced average query latency by 35% using PostgreSQL indexing and Redis caching on high-read endpoints. Designed secure authentication and role-based access control (RBAC); containerized services with Docker to ensure reproducible builds and consistent runtime environments.",
+          "tags": [
+            "Python (Flask)",
+            "PostgreSQL",
+            "Redis",
+            "Docker"
+          ],
+          "previewUrl": "#",
+          "repoUrl": "#"
+        },
+        {
+          "title": "Report Automation API",
+          "description": "Built a RESTful API service with 20+ endpoints processing 10,000+ monthly queries, automating business reporting and reducing manual workload by 50%. Optimized database access patterns and SQLAlchemy models to improve response latency under high-request scenarios (1,000+ daily requests). Implemented structured logging, monitoring, and CI pipelines (Loguru, Prometheus, GitHub Actions) to enhance observability, debugging efficiency, and deployment reliability.",
+          "tags": [
+            "Python (FastAPI)",
+            "SQLAlchemy",
+            "GitHub Actions"
+          ],
+          "previewUrl": "#",
+          "repoUrl": "#"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "California State University, Long Beach",
+          "degree": "Master of Science in Computer Science",
+          "period": "Jan. 2025 - Dec. 2026"
+        },
+        {
+          "institution": "Gujarat Technological University",
+          "degree": "Bachelor of Engineering in Information Technology",
+          "period": "Aug. 2020 - May 2024"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": false,
+      "title": "Achievements & Certifications",
+      "items": []
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "divyakumar.gajera@gmail.com",
+      "phone": "415-815-0799",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com/in/divya3347",
+          "icon": "linkedin"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Divyakumar Gajera. All rights reserved."
+  }
+}
