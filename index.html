@@ -464,12 +464,6 @@
                 value: data.sections.contact.phone,
                 link: `tel:${data.sections.contact.phone}`,
               },
-              {
-                value: data.sections.contact.location,
-                link: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-                  data.sections.contact.location
-                )}`,
-              },
             ]
               .filter((item) => item.value)
               .map(
